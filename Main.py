@@ -5,7 +5,6 @@
 
 
 
-# https://youtu.be/dhoKFqhVJu0?si=BU7Dznb1EQZspgFy
 
 import pandas as pd
 import seaborn as sns
